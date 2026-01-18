@@ -2,7 +2,7 @@
 This is an project that uses ollama so you can chat with an ai. While a waifu png will be displayed on the screen. The chat place is on a different chat box in a tk windows so you can chat with th local ai model.  
 In my demo gif i have used my own refined AI model that you can find on: https://ollama.com/ermwhatesigma420/Hanna  
 I used the ermwhatesigma420\hanna:7B  
-![Demo][waifu/waifu.gif]  
+![Demo](waifu/waifu.gif)  
 # Install ollama
 The model in the waifu.py in the repository is ermwhatesigma420\hanna the smaller 2.7B model might not work as great as the 7B model but it still works fine  
 Instalation. Make sure you have ollama installed --> https://ollama.com/download  
