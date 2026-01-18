@@ -33,7 +33,7 @@ pip install -r requirements.txt #only if you didn't install the pyton librearies
 python waifu.py #python3 waifu.py wich one you use
 #make sure ollama is already runing in the backgorund with --> ollama serve
 ```
-**Linux**
+**Linux**  
 Didn't test yet will try to review it soon.  
  
 
